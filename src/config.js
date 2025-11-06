@@ -1,2 +1,2 @@
 console.log('confing.js');
-console.log('version4');
+console.log('version1');
